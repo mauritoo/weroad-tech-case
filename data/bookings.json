@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "travel": {
+      "id": 1,
+      "price": 1580,
+      "picture": "https://strapi-imaginary.weroad.it/resource/webp-large/74852/.webp",
+      "rating": 4,
+      "name": "Barcelona & Costa Brava 360°",
+      "description": "Barcelona, a must on everyone's bucket list! Explore the iconic Sagrada Familia, stroll through enchanting alleys, and indulge in tapas galore. Our journey kicks off in this vibrant city, promising a mix of city charm and cultural wonders.",
+      "departure_date": "2024-04-01T12:25:22 +03:00",
+      "return_date": "2024-04-15T08:00:50 +03:00"
+    },
+    "customer": {
+      "name": "Michael Jordan",
+      "email": "michael@gmail.com",
+      "phoneNumber": "+393758885555",
+      "birthDate": "1980-01-12",
+      "gender": "Male"
+    },
+    "paymentType": "Credit transfer",
+    "notes": "Client asked for gluten-free meals"
+  },
+  {
+    "id": 2,
+    "travel": {
+      "id": 2,
+      "price": 1770,
+      "picture": "https://strapi-imaginary.weroad.it/resource/webp-large/32918/Peru-machu-picchu-landscape-coordinator.webp",
+      "rating": 5,
+      "name": "Exclusive Peru: Machu Picchu, Rainbow Mountain and Lake Titicaca",
+      "description": "Get ready for an exceptional Peruvian adventure that stands apart! Our journey represents the pinnacle of travel escapades, offering extraordinary activities and distinctive, top-tier accommodations. It's an elite travel experience where incredible activities and unique, select lodgings take centre stage.",
+      "departure_date": "2024-05-01T05:49:39 +03:00",
+      "return_date": "2024-05-15T11:32:56 +03:00"
+    },
+    "customer": {
+      "name": "Freddie Mercury",
+      "email": "freddie@gmail.com",
+      "phoneNumber": "+39624684514",
+      "birthDate": "1971-04-22",
+      "gender": "Male"
+    },
+    "paymentType": "Revolut",
+    "notes": "Make a discount on a second trip"
+  },
+  {
+    "id": 3,
+    "travel": {
+      "id": 3,
+      "price": 1600,
+      "picture": "https://strapi-imaginary.weroad.it/resource/webp-large/856/.webp",
+      "rating": 4,
+      "name": "Norway 360°: discovering the Lofoten islands",
+      "description": "Get ready for an epic adventure as we invite you to join us on an incredible road trip through the captivating landscapes of Norway! Our journey kicks off in the Lofoten archipelago, a hidden treasure beyond the Arctic Circle at the extraordinary 68th parallel.",
+      "departure_date": "2024-06-01T02:18:41 +03:00",
+      "return_date": "2024-06-15T02:41:31 +03:00"
+    },
+    "customer": {
+      "name": "Sandra Bullock",
+      "email": "sandra@gmail.com",
+      "phoneNumber": "+399875556633",
+      "birthDate": "1968-07-04",
+      "gender": "Female"
+    },
+    "paymentType": "Paypal",
+    "notes": "Call her 10 days before the trip as a reminder"
+  }
+]
