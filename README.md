@@ -36,3 +36,8 @@ yarn test:unit
 # bun
 bun run test:unit
 ```
+
+It is necessary to config a .env file with the path of the api (vue server mock), that will be built in the path /api of the running environment. I.e.
+```
+API_BASE_URL=http://localhost:3000/api
+```
